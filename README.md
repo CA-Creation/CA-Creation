@@ -7,7 +7,16 @@
 
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+
+<table align="center">
+<tr border="none">
+<td width="55%" align="left">
+  
 
 - 🔭 I’m currently working on **AI News Voice Assistant**
 
@@ -18,8 +27,15 @@
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**
 
 - 💬 Ask me about **Web development**
+</td>
+<td width="45%" align="center">
 
----
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -39,9 +55,10 @@
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
 <p align="center">
-<a href="https://linkedin.com/in/chamodya b herath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamodya b herath" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25860639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25860639" height="30" width="40" /></a>
-<a href="https://fb.com/čhămođyã b hĕŕãťh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="čhămođyã b hĕŕãťh" height="30" width="40" /></a>
-<a href="https://instagram.com/chamodya_b_herath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamodya_b_herath" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chamodya b herath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamodya b herath" height="30" width="60" /></a>
+<a href="https://stackoverflow.com/users/25860639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25860639" height="30" width="60" /></a>
+<a href="https://fb.com/čhămođyã b hĕŕãťh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="čhămođyã b hĕŕãťh" height="30" width="60" /></a>
+<a href="https://instagram.com/chamodya_b_herath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamodya_b_herath" height="30" width="60" /></a>
 </p>
