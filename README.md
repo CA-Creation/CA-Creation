@@ -26,6 +26,8 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**
 
+- 👩‍🎓 My portfolio https://ca-creation.github.io/responsive-portfolio-website/
+
 - 💬 Ask me about **Web development**
 </td>
 <td width="45%" align="center">
