@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px>
 </div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%24292e&size=35&center=true&vCenter=true&width=800&height=100&lines=Hi+There+,+I'm+Chamodya+Bandara+👋;ICT+Student;Back-End+Developer;Graphic+Designer;Programmer;Freelancer"></a>
