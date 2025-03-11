@@ -18,17 +18,16 @@
 <td width="55%" align="left">
   
 
-- 🔭 I’m currently working on **AI News Voice Assistant**
+- 🔭 I’m currently working on **VINDIXSHEE Web Application**
 
 - 🌱 I’m currently learning **React | Java | Flutter**
 
-- 📫 How to reach me [chamodyabandara@gmail.com](chamodyabandara@gmail.com)
+- 📫 How to reach me [chamodyabandara@gmail.com](chamodyabherath@gmail.com)
 
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**
 
-- 👩‍🎓 My portfolio https://ca-creation.github.io/responsive-portfolio-website/
+- 👩‍🎓 My portfolio https://67d0ad67e267fd28b05fe3fc--dashing-shortbread-fa1636.netlify.app/
 
-- 💬 Ask me about **Web development**
 </td>
 <td width="45%" align="center">
 
