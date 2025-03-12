@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **React | Java | Flutter**
 
-- 📫 How to reach me [chamodyabandara@gmail.com](chamodyabherath@gmail.com)
+- 📫 How to reach me [chamodyabherath@gmail.com](chamodyabherath@gmail.com)
 
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**
 
