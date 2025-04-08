@@ -26,7 +26,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**
 
-- 👩‍🎓 My portfolio [https://67d0ad67e267fd28b05fe3fc--dashing-shortbread-fa1636.netlify.app/](https://67d6725016be360e270070b7--idyllic-faloodeh-ec2292.netlify.app/)
+- 👩‍🎓 My portfolio https://unrivaled-heliotrope-449e71.netlify.app/
 
 </td>
 <td width="45%" align="center">
