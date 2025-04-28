@@ -2,7 +2,7 @@
         <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px>
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%24292e&size=35&center=true&vCenter=true&width=800&height=100&lines=Hi+There+,+I'm+Chamodya+Bandara+👋;ICT+Student;Front-End+Developer;Graphic+Designer;Programmer;Freelancer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%24292e&size=35&center=true&vCenter=true&width=800&height=100&lines=Hi+There+,+I'm+Chamodya+Bandara+👋;ICT+Student;Front-End+Developer;Graphic+Designer;Programmer;Freelancer;Software+Engineer"></a>
 </p>
 
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
@@ -26,7 +26,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**
 
-- 👩‍🎓 My portfolio https://unrivaled-heliotrope-449e71.netlify.app/
+- 👩‍🎓 My portfolio [https://unrivaled-heliotrope-449e71.netlify.app/](https://unrivaled-heliotrope-449e71.netlify.app/)
 
 </td>
 <td width="45%" align="center">
@@ -41,8 +41,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br/>
-    <a href="https://github.com/CA-creation/github-readme-stats"><img alt="CA-creation's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CA-creation&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/CA-creation/github-readme-stats"><img alt="CA-creation's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CA-creation&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/CA-Creation/github-readme-stats"><img alt="CA-Creation's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CA-Creation&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/CA-creation/github-readme-stats"><img alt="CA-creation's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CA-Creation&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br>
