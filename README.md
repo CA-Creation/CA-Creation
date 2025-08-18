@@ -18,9 +18,9 @@
 <td width="55%" align="left">
   
 
-- 🔭 I’m currently working on **VINDIXSHEE Web Application**
+- 🔭 I’m currently working on **Research project**
 
-- 🌱 I’m currently learning **React | Java | Flutter**
+- 🌱 I’m currently learning **Laravel | Vue | Blade**
 
 - 📫 How to reach me [chamodyabherath@gmail.com](chamodyabherath@gmail.com)
 
