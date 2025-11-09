@@ -26,7 +26,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**
 
-- 👩‍🎓  [My portfolio](https://wondrous-rabanadas-0e4d87.netlify.app/)
+- 👩‍🎓  [My portfolio](https://chamodyabandara.netlify.app/)
 
 </td>
 <td width="45%" align="center">
